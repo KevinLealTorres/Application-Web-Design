@@ -16,5 +16,5 @@ This is an update.
 ## Subtitle: use ## in the start of the text
 - Unordered list: use - in the start of the text
 1. Ordered list: use x. (being x a number) in the start
-[https://www.google.com](Links): use [link] in the start and a (text) after that
-![./imagen.png](Fotos): Use [imagen path] and (text)
+[Links](https://www.google.com): use [link] in the start and a (text) after that
+![Imagen de gato](./imagen.png): Use [imagen path] and (text)
